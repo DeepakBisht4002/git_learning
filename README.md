@@ -1,1 +1,1 @@
-# git_learning
+# this is a git & github learning
